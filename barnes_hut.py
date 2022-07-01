@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jun 30 15:21:39 2022
-
-@author: Shashank
-"""
 import numpy as np
 import matplotlib.pyplot as plt
 from mpl_toolkits import mplot3d
